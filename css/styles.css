@@ -1,4 +1,34 @@
 
+/* Header */
 .header-container {
+
+}
+
+.logo {
+
+}
+
+.name-header {
+
+}
+
+/* Main content */
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.hero-image {
+	text-align: center;
+	width: 100%;
+	padding-top: 75%;
+}
+
+.showcase {
+	width: 100%;
+}
+
+.invention-image {
 
 }
